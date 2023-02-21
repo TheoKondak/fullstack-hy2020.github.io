@@ -16,7 +16,7 @@ Debugging Node applications is slightly more difficult than debugging JavaScript
 
 #### Visual Studio Code
 
-The Visual Studio Code debugger can be useful in some situations. You can launch the application in debugging mode like this:
+The [Visual Studio Code debugger](https://code.visualstudio.com/docs/introvideos/debugging) can be useful in some situations. You can launch the application in debugging mode like this:
 
 ![screenshot showing how to launch debugger in vscode](../../images/3/35x.png)
 
